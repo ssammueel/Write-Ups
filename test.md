@@ -18,7 +18,7 @@ get metadata about the image
 
     $ exiftool ukn_reality.jpg
 
-    cGljb0NURntNRTc0RDQ3QV9ISUREM05fYjMyMDQwYjh9Cg==
+    attribute url : cGljb0NURntNRTc0RDQ3QV9ISUREM05fYjMyMDQwYjh9Cg==
 
 decript in base 64
 
