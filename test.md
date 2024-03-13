@@ -2,4 +2,22 @@
 
 ## overview
 1. forensics
-2. 10 points
+2. 100 points 
+
+## Description
+CanYouSee
+
+## Hints
+How about some hide and seek?
+
+## Approach
+$ unzip unknown.zip 
+
+$ exiftool ukn_reality.jpg
+Attribution URL                 : cGljb0NURntNRTc0RDQ3QV9ISUREM05fYjMyMDQwYjh9Cg==
+
+- decript in base 64
+$ echo "cGljb0NURntNRTc0RDQ3QV9ISUREM05fYjMyMDQwYjh9Cg==" | base64 -d
+
+## flag
+picoCTF{ME74D47A_HIDD3N_b32040b8}
