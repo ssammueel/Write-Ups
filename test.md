@@ -12,12 +12,16 @@ How about some hide and seek?
 
 ## Approach
 download the file and unzip it
-    $ unzip unknown.zip 
 
-$ exiftool ukn_reality.jpg
-    Attribution URL: cGljb0NURntNRTc0RDQ3QV9ISUREM05fYjMyMDQwYjh9Cg==
+     $ unzip unknown.zip 
+get metadata about the image
 
-- decript in base 64
+    $ exiftool ukn_reality.jpg
+
+    cGljb0NURntNRTc0RDQ3QV9ISUREM05fYjMyMDQwYjh9Cg==
+
+decript in base 64
+
     $ echo "cGljb0NURntNRTc0RDQ3QV9ISUREM05fYjMyMDQwYjh9Cg==" | base64 -d
 
 ## flag
