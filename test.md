@@ -1,8 +1,8 @@
 # infomation
 
 ## overview
-1. forensics
-2. 100 points 
+* forensics
+* 100 points 
 
 ## Description
 CanYouSee
