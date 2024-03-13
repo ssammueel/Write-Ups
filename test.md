@@ -1,5 +1,5 @@
 # infomation
 
 ## overview
-'.' forensics
-'.' 10 points
+1. forensics
+2. 10 points
