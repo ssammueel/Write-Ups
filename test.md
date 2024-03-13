@@ -11,13 +11,14 @@ CanYouSee
 How about some hide and seek?
 
 ## Approach
-$ unzip unknown.zip 
+download the file and unzip it
+    $ unzip unknown.zip 
 
 $ exiftool ukn_reality.jpg
-Attribution URL                 : cGljb0NURntNRTc0RDQ3QV9ISUREM05fYjMyMDQwYjh9Cg==
+    Attribution URL: cGljb0NURntNRTc0RDQ3QV9ISUREM05fYjMyMDQwYjh9Cg==
 
 - decript in base 64
-$ echo "cGljb0NURntNRTc0RDQ3QV9ISUREM05fYjMyMDQwYjh9Cg==" | base64 -d
+    $ echo "cGljb0NURntNRTc0RDQ3QV9ISUREM05fYjMyMDQwYjh9Cg==" | base64 -d
 
 ## flag
-picoCTF{ME74D47A_HIDD3N_b32040b8}
+    picoCTF{ME74D47A_HIDD3N_b32040b8}
