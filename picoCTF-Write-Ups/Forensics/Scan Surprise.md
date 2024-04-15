@@ -16,6 +16,7 @@ challenge file [challenge.zip](https://artifacts.picoctf.net/c_atlas/14/challeng
 3. If you don't have access to a phone, you can also use zbar-tools to convert an image to text
 
 ## Approach
+&rarr; The challenge proved straightforward, merely requiring the user to scan a QR code in order to obtain the flag 
 download the file and unzip it
 
      $ unzip challenge.zip 
