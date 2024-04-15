@@ -20,6 +20,7 @@ download the file and unzip it
 
      $ unzip challenge.zip 
 you are given a QR code
+![Screenshot (405)](https://github.com/ssammueel/Write-Ups/assets/124765323/9d2adebc-5e7a-4dbe-b77e-05e8b80972d6)
 
 mobile phone has many ways to scan a QR code
 
@@ -34,6 +35,6 @@ output of the scan will be flag
     picoCTF{ME74D47A_HIDD3N_b32040b8}
 
 ### solved by 
- git hub &rarr; [Samuel](https://github.com/ssammueel)
- potfolio &rarr; [Samuel potfolio](https://ssammueel.github.io/samuel.github.io/)
+* git hub &rarr; [Samuel](https://github.com/ssammueel)
+* potfolio &rarr; [Samuel potfolio](https://ssammueel.github.io/samuel.github.io/)
 
