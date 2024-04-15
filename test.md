@@ -1,8 +1,9 @@
-# infomation
+# hello, we are cyb3r hun73rs
 
-## overview
-* forensics
-* 100 points 
+## what we do 
+* programing 
+* ethical Hacking
+* 
 
 ## Description
 CanYouSee
