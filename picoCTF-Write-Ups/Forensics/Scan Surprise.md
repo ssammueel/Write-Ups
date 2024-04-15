@@ -2,7 +2,7 @@
 
 ## overview
 * forensics
-* 100 points 
+* 50 points 
 
 ## Description
 I've gotten bored of handing out flags as text. 
@@ -24,17 +24,14 @@ you are given a QR code
 
 ![Screenshot (405)](https://github.com/ssammueel/Write-Ups/assets/124765323/9d2adebc-5e7a-4dbe-b77e-05e8b80972d6)
 
-mobile phone has many ways to scan a QR code
+There are many ways of scanning QR codes
+ *Smartphone Cameras
+* QR Code Scanner Apps eg QR Code Reader & Barcode Scanner
+* QR Code Scanners in Web Browsers eg Google Chrome, safari
 
-    $ 1. use goggle lens
-    $ 2.use third party apps
-you can olso use pc to scan codes
-
-output of the scan will be flag
-    
 
 ## flag
-    picoCTF{ME74D47A_HIDD3N_b32040b8}
+    picoCTF{p33k_@_b00_0194a007}
 
 ### solved by 
 * git hub &rarr; [Samuel](https://github.com/ssammueel)<br>
