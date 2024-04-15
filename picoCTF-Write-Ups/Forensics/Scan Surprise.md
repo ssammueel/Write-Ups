@@ -34,4 +34,6 @@ output of the scan will be flag
     picoCTF{ME74D47A_HIDD3N_b32040b8}
 
 ### solved by 
-[SAMUEL](https://github.com/ssammueel)
+ git hub &rarr; [Samuel](https://github.com/ssammueel)
+ potfolio &rarr; [Samuel potfolio](https://ssammueel.github.io/samuel.github.io/)
+
