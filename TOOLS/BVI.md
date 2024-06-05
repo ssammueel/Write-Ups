@@ -10,11 +10,14 @@ once the flag opens by default it will be in command mode
 
 1. switching to edit mode
 
-      :set memmove
+            :set memmove
 
 2. enter insertion mode
 
    press **i**  then insert hexadecimals needed
+
+               i
+   
    after press **escape** key to back to command mode
 
 4.save
